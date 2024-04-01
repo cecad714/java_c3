@@ -1,0 +1,58 @@
+Enter the number of teachers: 3
+
+Enter the details of Teacher 1:
+Employee ID: 45E
+Employee Name: Aswany Santhosh
+Salary: 100000
+Address: Kalathoor House, Kurianoor P.O, Thiruvalla
+Department: Computer Science
+Number of Subjects taught: 2
+Subject 1: DBMS
+Subject 2: ACN
+
+Enter the details of Teacher 2:
+Employee ID: 46E
+Employee Name: Hanna Kunjumon
+Salary: 150000
+Address: Kinaruvila Thekkathil, Venga P.O, Sasthamcotta
+Department: Computer Science
+Number of Subjects taught: 2
+Subject 1: Advanced Data Structures
+Subject 2: Mathematical Computing
+
+Enter the details of Teacher 3:
+Employee ID: 50F
+Employee Name: Ajo P Thomas
+Salary: 20000
+Address: Poovelil, Ponmala P.O, Thadiyoor
+Department: Chemical 
+Number of Subjects taught: 1
+Subject 1: Oil and Gas 
+
+Details of all teachers:
+Employee ID: 45E
+Employee Name: Aswany Santhosh
+Salary: $100000.0
+Address: Kalathoor House, Kurianoor P.O, Thiruvalla
+Department: Computer Science
+Subjects Taught:
+ - DBMS
+ - ACN
+
+Employee ID: 46E
+Employee Name: Hanna Kunjumon
+Salary: $150000.0
+Address: Kinaruvila Thekkathil, Venga P.O, Sasthamcotta
+Department: Computer Science
+Subjects Taught:
+ - Advanced Data Structures
+ - Mathematical Computing
+
+Employee ID: 50F
+Employee Name: Ajo P Thomas
+Salary: $20000.0
+Address: Poovelil, Ponmala P.O, Thadiyoor
+Department: Chemical 
+Subjects Taught:
+ - Oil and Gas
+
